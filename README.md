@@ -1,12 +1,15 @@
 # Development-environment
 Optimal Data Science environment setup. Idea is to have a seemless environment irrespective of which operating system you use. 
 
-## Topics
+# Topics
 - WSL2
 - Python virtual environments
-- Poetry
+  - venv
+  - Conda
+  - Poetry
+  
 
-# Virtual Environments
+## Virtual Environments with `venv`
 Installing a specific python version using `venv`
 
 ```shell
