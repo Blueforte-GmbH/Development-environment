@@ -61,6 +61,14 @@ conda install numpy
 conda create --name condaenv python=3.8.10
 ```
 
+### Adding packages form environments yaml
+File needs to be created first as described [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually)
+
+```
+conda env create -f environment.yml
+```
+
+
 For all commands refer [conda sheet sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 ---
 
