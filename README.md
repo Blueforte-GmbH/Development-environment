@@ -1,3 +1,7 @@
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
 # Development-environment
 Optimal Data Science environment setup. Idea is to have a seemless environment irrespective of which operating system you use. 
 
@@ -50,7 +54,7 @@ Check [here](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#bash-l
 
 ---
 
-## Python Virtual Environments with `venv`
+# Python Virtual Environments with `venv`
 Installing a specific python version using `venv`
 
 ```shell
@@ -71,7 +75,7 @@ source <venv>/bin/acivate
 deactivate
 ```
 ---
-## Conda
+# Conda
 Download the version of conda you need as below and install. 
 
 ```shell
@@ -126,7 +130,7 @@ For all commands refer [conda cheat sheet](https://docs.conda.io/projects/conda/
 
 ---
 
-## Poetry
+# Poetry
 <img src="img/poetry_isin.png" width="400">
 
 
