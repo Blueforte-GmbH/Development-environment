@@ -127,7 +127,7 @@ For all commands refer [conda cheat sheet](https://docs.conda.io/projects/conda/
 ---
 
 ## Poetry
-![Image](img/poetry_isin.png)
+<img src="img/poetry_isin.png" width="400">
 
 
 Install poetry with `curl`. 
