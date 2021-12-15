@@ -14,13 +14,19 @@ Windows Subsystem for Linux (WSL) lets you run a Linux environment inside of you
 
 [Here](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/) is how you get started. 
 
-### Prerequisite
+### Prerequisites
 Ensure to turn on these in Windows Features before installing WSL as shown below.
 - 1. Virtual Machine Platfomr
 - 2. Windows Subsystem for linux
 
 
-![Windows Features](img/win_features.jpg)
+![Image](img/win_features.png)
+
+If the virtual machine is disable in your system, then you need to enable it through Bios. Check here in Task manager. 
+
+![Image](img/virtual.png)
+
+
 
 ### Drives 
 After installation you can verify the wsl version in powershell as 
