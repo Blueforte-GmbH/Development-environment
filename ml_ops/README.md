@@ -50,3 +50,10 @@ Tests make no sense if there are not continuously.
 
 A general practice is to test the above mentioned code continuously using a CI CD framework like Github actions or Circle CI. 
 
+
+
+## Resources
+Some more reading materials and papers. 
+
+1. [ml-ops](https://ml-ops.org)
+2. [Everything about ML-OPS](https://github.com/visenger/awesome-mlops)
